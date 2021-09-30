@@ -3,7 +3,7 @@ package project6;
 //LSUID: 895007806
 //Date: 3/30/2020
 //Assignment: Recursive vs. Iterative Solutions
-public class Project6 {
+public class Recursive_vs_Iterative{
 
 
     public static void main(String[] args) {
