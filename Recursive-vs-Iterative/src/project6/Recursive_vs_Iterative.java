@@ -1,6 +1,5 @@
 package project6;
 //Name: Brennen Calato
-//Date: 3/30/2020
 //Assignment: Recursive vs. Iterative Solutions
 public class Recursive_vs_Iterative{
 
