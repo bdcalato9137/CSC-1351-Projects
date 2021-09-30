@@ -1,6 +1,5 @@
 package project6;
 //Name: Brennen Calato
-//LSUID: 895007806
 //Date: 3/30/2020
 //Assignment: Recursive vs. Iterative Solutions
 public class Fibonacci 
