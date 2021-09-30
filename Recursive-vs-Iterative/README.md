@@ -1,1 +1,1 @@
-This is an assignment where we did the fibbonaci sequence recursively or iteratively with different numbers and then had to computer print out the time it took, so we could compare which was faster.
+This is an assignment where we did the fibbonaci sequence recursively and iteratively with different numbers. Then had the computer print out the time it took for each in nanoseconds, so we could compare which was faster.
