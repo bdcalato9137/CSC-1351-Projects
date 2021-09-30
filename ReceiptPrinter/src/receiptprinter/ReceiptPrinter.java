@@ -5,8 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
         
 /**
- *
- * @author bdcal
+ *@author Brennen Calato
  */
 public class ReceiptPrinter {
 
