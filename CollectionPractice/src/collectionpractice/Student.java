@@ -2,7 +2,7 @@ package collectionpractice;
 
 /**
  *
- * @author bdcal
+ * @author Brennen Calato
  */
 public class Student 
 {
