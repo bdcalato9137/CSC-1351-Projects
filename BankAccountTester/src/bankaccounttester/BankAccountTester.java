@@ -2,7 +2,7 @@ package bankaccounttester;
 import java.util.Scanner;
 /**
  *
- * @author bdcal
+ * @author Brennen Calato
  */
 public class BankAccountTester {
 
