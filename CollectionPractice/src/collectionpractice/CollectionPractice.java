@@ -1,3 +1,5 @@
+//@author Brennen Calato
+
 package collectionpractice;
 import java.util.LinkedList;
 public class CollectionPractice 
